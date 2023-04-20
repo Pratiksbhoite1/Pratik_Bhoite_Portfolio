@@ -56,10 +56,15 @@
 
 @media (max-width: 767px) {
   .about-img {
+<<<<<<< HEAD
     size: 50px;
     padding-top: 0 !important;
     border-radius: 50%;
    
+=======
+    padding-top: 0 !important;
+    border-radius: 50%;
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
   }
 }
 .git {

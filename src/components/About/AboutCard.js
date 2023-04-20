@@ -18,12 +18,15 @@ function AboutCard() {
               <AiOutlineArrowRight /> Developing Websites
             </li>
             <li className="about-activity">
+<<<<<<< HEAD
               <AiOutlineArrowRight /> Developing java Projects
             </li>
             <li className="about-activity">
               <AiOutlineArrowRight /> Problem Solving
             </li>
             <li className="about-activity">
+=======
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
               <AiOutlineArrowRight /> Reading Books
             </li>
             <li className="about-activity">

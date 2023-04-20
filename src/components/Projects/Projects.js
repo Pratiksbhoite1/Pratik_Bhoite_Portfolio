@@ -5,6 +5,10 @@ import ProjectCard from "./ProjectCards";
 import ProjectCardscopy from "./ProjectCardscopy";
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
 // import PrivateChat from "../../Assets/Projects/PrivateChat.png";
 import Portfolio from "../../Assets/Projects/pf.jpeg";
 import Ecart from "../../Assets/Projects/shop.png";
@@ -15,6 +19,10 @@ import Python from "../../Assets/Projects/python.jpeg";
 
 import "./project.css";
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -56,8 +64,13 @@ function Projects() {
           <Col md={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={JAVA}
+<<<<<<< HEAD
               title="Expense Tracker"
               description="An online expense tracker using React, Node, Express, and MongoDB as the database. It allows you to keep track of your expenses, investments, and savings. All past transactions are listed, and you can also delete them. "
+=======
+              title="Hostel Database "
+              description="In this project i used sql for database , java for user input and also ui for interface "
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
               ghLink="https://github.com/Pratiksbhoite1/Hostel-Management"
               demoLink="https://github.com/Pratiksbhoite1/Hostel-Management/archive/refs/heads/main.zip"
             />

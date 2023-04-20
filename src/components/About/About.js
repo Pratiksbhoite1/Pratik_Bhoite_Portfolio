@@ -45,6 +45,7 @@ function About() {
             data-aos="fade-left"
             style={{
               borderRadius: "20%",
+<<<<<<< HEAD
               paddingRight :"25px",
               paddingLeft :"25px",
               paddingTop : "25px",
@@ -54,6 +55,9 @@ function About() {
 
               
                             
+=======
+              
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
              
             }}
           />

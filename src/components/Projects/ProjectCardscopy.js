@@ -2,7 +2,11 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
+<<<<<<< HEAD
 // import { BsGithub } from "react-icons/bs";
+=======
+import { BsGithub } from "react-icons/bs";
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
 import { BsLinkedin } from "react-icons/bs";
 
 function ProjectCardscopy(props) {
@@ -15,7 +19,11 @@ function ProjectCardscopy(props) {
           {props.description}
         </Card.Text>
         <Button variant="primary" href={props.ghLink} target="_blank">
+<<<<<<< HEAD
           <BsLinkedin /> &nbsp;
+=======
+          <BsLinkedin/> &nbsp;
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
           {props.isBlog ? "Blog" : "Linkedin"}
         </Button>
        
@@ -41,7 +49,11 @@ function ProjectCardscopy(props) {
 
       </Card.Body>
     </Card>
+<<<<<<< HEAD
     
+=======
+  
+>>>>>>> be00c3f0c4a5e589acffe45786e47e9e6275171d
   );
 }
 
