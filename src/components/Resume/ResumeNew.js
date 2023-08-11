@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-"https://raw.githubusercontent.com/Pratiksbhoite1/Portfolio/main/PratikBhoiteCV.pdf";
+"https://raw.githubusercontent.com/Pratiksbhoite1/my_portfolio/main/Pratiksbhoite1CV.pdf";
 
 
 function ResumeNew() {
@@ -25,7 +25,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://github.com/Pratiksbhoite1/Portfolio/raw/main/PratikBhoiteCV.pdf"
+            href="https://github.com/Pratiksbhoite1/my_portfolio/raw/main/Pratiksbhoite1CV.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
